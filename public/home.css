@@ -1,6 +1,7 @@
 body{
     background-image: url(https://cdn.amctheatres.com/general/img/DP_1004_PremiumOffering_Dolby_bg.jpg);
     background-attachment: fixed;
+    color : red;
 }
 
 #login_main , #signup_main{
